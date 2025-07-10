@@ -8,7 +8,7 @@
     },
     "description":"conecting unity to vrchat for local asset viewing",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/shader-wizard/unity-vrchat-linker",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
